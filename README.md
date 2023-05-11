@@ -1,3 +1,3 @@
 ```elisp
-(message "Hello!")
+(message "Premium mediocre")
 ```
